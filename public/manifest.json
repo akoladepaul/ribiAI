@@ -1,0 +1,22 @@
+{
+  "short_name": "Zibi AI",
+  "name": "Zibi - AI Personal Shopper & Procurement Assistant",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F19",
+  "theme_color": "#8B5CF6",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Your AI-native personal shopper and business procurement assistant. Scout, compare, negotiate, and execute purchases effortlessly."
+}
